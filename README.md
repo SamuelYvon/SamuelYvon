@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello!
+
+I am a master's student at University of Montreal. I am interested in a lot of diverse things,
+but at the moment I mainly work on projects related to compilation. 
+
+
+#### Papers & Notable Work
+
+- 4-cop-win graphs have at least 19 vertices (preprint on [https://arxiv.org/abs/2006.02998](arxiv), under review)
+    - Jérémie Turcotte, Samuel Yvon
+- Running Scheme On Bare-Metal  (presented at the [https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-](Scheme workshop of ICFP 2020))
+    - Samuel Yvon, Marc Feeley
+
+You can find some presentations I did (french/english) on my [https://www.youtube.com/channel/UCt1puHbNV1PejKHqNd22zVw](youtube).
 
 <!--
 **SamuelYvon/SamuelYvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
