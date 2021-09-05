@@ -15,7 +15,7 @@ languages. I also work as an embedded software developer, using the Microchip PI
 
 #### Presentations
 
-You can find some presentations I did (french/english) on my [youtube](https://www.youtube.com/channel/UCt1puHbNV1PejKHqNd22zVw).
+You can find some presentations I did (french and english) on my [youtube](https://www.youtube.com/channel/UCt1puHbNV1PejKHqNd22zVw).
 
 #### Programming 
 
