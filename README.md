@@ -4,6 +4,8 @@ I am a master's student at University of Montreal. I am interested in a lot of d
 but at the moment I mainly work on projects related to compilation of dynamically typed
 languages. I also work as an embedded software developer, using the Microchip PIC platform.
 
+I typically code on Linux with neovim :)
+
 #### Publications
 
 - **4-cop-win graphs have at least 19 vertices** (Jérémie Turcotte, Samuel Yvon)
@@ -19,7 +21,4 @@ You can find some presentations I did (french/english) on my [youtube](https://w
 
 #### Programming 
 
-I have no problem working with any programming language, but these days I mainly write in
-- C
-- Java / Groovy
-- Scheme
+I have no problem working with any programming language, but these days I mainly write in C and Scheme.
