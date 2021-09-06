@@ -8,9 +8,10 @@ I typically code on Linux with neovim :)
 
 #### Publications
 
-- **4-cop-win graphs have at least 19 vertices** (Jérémie Turcotte, Samuel Yvon)
-    - Available in [*Discrete Applied Mathematics*](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21002018)
-- **Running Scheme on bare-metal (experience report)** (Samuel Yvon, Marc Feeley)
+- [2020] **4-cop-win graphs have at least 19 vertices** (Jérémie Turcotte, Samuel Yvon)
+    - Published in [*Discrete Applied Mathematics*](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21002018)
+
+- [2020] **Running Scheme on bare-metal (experience report)** (Samuel Yvon, Marc Feeley)
     - In proceedings of the Scheme Workshop held at ICFP 2020
     - Available on [arxiv](https://arxiv.org/abs/2101.06759)
     - Presentation available on [youtube](https://www.youtube.com/watch?v=GWr4iQfc0uw)
