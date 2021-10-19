@@ -9,7 +9,9 @@ I typically code on Linux with neovim :)
 #### Publications
 
 - [2021] **A Small Scheme VM, Compiler, and REPL in 4K** (Samuel Yvon, Marc Feeley)
-    - To be presented at [VMIL 2021](https://2021.splashcon.org/home/vmil-2021#event-overview)
+    - Presented at [VMIL 2021](https://2021.splashcon.org/home/vmil-2021#event-overview)
+    - Available in the [ACM Digital Library](https://dl.acm.org/doi/10.1145/3486606.3486783)
+    - [Github Repository](https://github.com/udem-dlteam/ribbit)
 
 - [2020] **4-cop-win graphs have at least 19 vertices** (Jérémie Turcotte, Samuel Yvon)
     - Published in [*Discrete Applied Mathematics*](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21002018)
@@ -18,6 +20,7 @@ I typically code on Linux with neovim :)
     - In proceedings of the Scheme Workshop held at ICFP 2020
     - Available on [arxiv](https://arxiv.org/abs/2101.06759)
     - Presentation available on [youtube](https://www.youtube.com/watch?v=GWr4iQfc0uw)
+    - [Github Repository](https://github.com/udem-dlteam/mimosa)
 
 #### Presentations
 
