@@ -1,10 +1,12 @@
-### Hello!
+### Hello! :wave:
 
 I am a master's student at University of Montreal. I am interested in a lot of diverse things,
 but at the moment I mainly work on projects related to compilation of dynamically typed
 languages. I also work as an embedded software developer, using the Microchip PIC platform.
+I prefer Linux with neovim as a development environment, but I use whatever tools make the work
+easier.
 
-I typically code on Linux with neovim :)
+Outside of coding, I'm what some would call a *coffee geek* and I enjoy strategy games.
 
 #### Publications
 
@@ -24,8 +26,8 @@ I typically code on Linux with neovim :)
 
 #### Presentations
 
-You can find some presentations I did (french and english) on my [youtube](https://www.youtube.com/channel/UCt1puHbNV1PejKHqNd22zVw).
+You can find some presentations I did (french and english) on my [youtube channel](https://www.youtube.com/channel/UCt1puHbNV1PejKHqNd22zVw).
 
 #### Programming 
 
-I have no problem working with any programming language, but these days I mainly write in C and Scheme.
+These days, I mostly code in C and Scheme. I would work with any language, assuming I can get the necessary ramp-up.
