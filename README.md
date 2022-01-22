@@ -2,7 +2,11 @@
 
 I am a master's student at University of Montreal. I am interested in a lot of diverse things,
 but at the moment I mainly work on projects related to compilation of dynamically typed
-languages. I also work as an embedded software developer, using the Microchip PIC platform.
+languages.
+
+I currently work as an software developer at Garda World. I was previously an
+embedded software developer working on the Microchip PIC platform.
+
 I prefer Linux with neovim as a development environment, but I use whatever tools make the work
 easier.
 
