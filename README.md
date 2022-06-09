@@ -1,16 +1,17 @@
 ### Hello! :wave:
 
-I am a master's student at University of Montreal. I am interested in a lot of diverse things,
-but at the moment I mainly work on projects related to compilation of dynamically typed
-languages.
-
-I currently work as an software developer at Garda World. I was previously an
+I currently work as a software developer at Garda World. I was previously an
 embedded software developer working on the Microchip PIC platform.
+
+I was a master's student at University of Montreal, but this is currently on pause.
+
+I'm interested in a large amount of things, but I mainly gravitate towards graph theory, low
+level programming and compilation of dynamically-typed languages.
 
 I prefer Linux with neovim as a development environment, but I use whatever tools make the work
 easier.
 
-Outside of coding, I'm what some would call a *coffee geek* and I enjoy strategy games.
+Outside of coding, I'm what some would call a *coffee geek* and I enjoy strategy games. 
 
 #### Publications
 
@@ -34,4 +35,4 @@ You can find some presentations I did (french and english) on my [youtube channe
 
 #### Programming 
 
-These days, I mostly code in C and Scheme. I would work with any language, assuming I can get the necessary ramp-up.
+These days, I mostly code in Python and C. I would work with any language, assuming I can get the necessary ramp-up.
