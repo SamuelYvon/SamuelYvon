@@ -1,11 +1,13 @@
 ### Hello! :wave:
 
-I currently work as a software developer at Garda World. I was previously an
-embedded software developer working on the Microchip PIC platform. I am mainly
-a systems developer; I do not touch web applications very often.
+I currently work as a software developer at Garda World, where I do a bunch of
+things, mainly related to integrating artificial intelligence to embedded
+systems. 
 
-When I get the choice, I prefer to work on linux with a combination of nvim and task
-specific tools, but I'll use whatever tools make the work easier.
+I was previously an embedded software developer working on the Microchip PIC
+platform at M3 Solutions.
+
+I am mainly a systems developer; I do not touch web applications very often. GNU/Linux user.
 
 I'm interested in a large amount of things. From my time in university, I got
 hooked on graph theory, low level programming and compilation of
@@ -35,6 +37,9 @@ You can find some presentations I did (french and english) on my [youtube
 channel](https://www.youtube.com/channel/UCt1puHbNV1PejKHqNd22zVw). One is also linked on the
 [ACM website](https://dl.acm.org/doi/10.1145/3486606.3486783)
 
-#### Programming 
+#### Programming skillset
 
-These days, I mostly code in Python and C. I would work with any language, assuming I can get the necessary ramp-up.
+These days I mostly code in Python. I'm still using C for personal projects and
+I am currently learning Rust like everyone else. As long as I don't do
+JavaScript or Typescript, I'm happy. I have also done lots of (old) Java and
+Groovy.
